@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "evento": "La cara oculta de la adolescencia",
+    "cliente": "Familias Estelares",
+    "datas_evento": "8, 10, 12 y 15 jun 2026",
+    "periodo": "19/05/2026 a 23/05/2026",
+    "dias_ativos": 2,
+    "atualizado_em": "23/05/2026"
+  },
+  "kpis": {
+    "investimento_total": 1068.28,
+    "cpl_total": 3.76,
+    "leads_total": 288
+  },
+  "audiencias": {
+    "hot": { "leads": 133, "spend": 534.11, "cpl": 4.02 },
+    "cold": { "leads": 148, "spend": 534.17, "cpl": 3.54 }
+  },
+  "funil": {
+    "impressoes": 101744,
+    "cliques": 1786,
+    "page_views": 1301,
+    "leads": 288,
+    "ctr": 1.75,
+    "connect_rate": 72.84,
+    "taxa_conversao": 22.14
+  },
+  "leads_por_dia": [
+    { "data": "19/05", "leads": 1 },
+    { "data": "20/05", "leads": 1 },
+    { "data": "22/05", "leads": 158 },
+    { "data": "23/05", "leads": 128 }
+  ],
+  "cpl_por_dia": [
+    { "data": "22/05", "cpl": 3.73 },
+    { "data": "23/05", "cpl": 3.82 }
+  ],
+  "canais": [
+    { "canal": "Instagram", "leads": 167, "pct": 58.0 },
+    { "canal": "Facebook", "leads": 114, "pct": 39.6 },
+    { "canal": "Sem rastreio", "leads": 3, "pct": 1.0 },
+    { "canal": "Audience Network", "leads": 2, "pct": 0.7 },
+    { "canal": "grupos_antiguos", "leads": 1, "pct": 0.3 },
+    { "canal": "testesource", "leads": 1, "pct": 0.3 }
+  ],
+  "criativos": [
+    { "nome": "ADXX-MISTO", "leads": 108, "spend": 0, "cpl": 0 },
+    { "nome": "AD03-BLOQUE-06", "leads": 4, "spend": 0, "cpl": 0 },
+    { "nome": "AD08-BLOQUE-13", "leads": 1, "spend": 0, "cpl": 0 },
+    { "nome": "AD02-BLOQUE-04", "leads": 1, "spend": 0, "cpl": 0 }
+  ],
+  "segmentacao": {
+    "genero": [
+      { "grupo": "Female", "spend": 984.82, "leads": 229, "cpl": 4.30 },
+      { "grupo": "Male", "spend": 71.90, "leads": 17, "cpl": 4.23 },
+      { "grupo": "Unknown", "spend": 11.56, "leads": 2, "cpl": 5.78 }
+    ],
+    "faixa_etaria": [
+      { "grupo": "25-34", "spend": 36.46, "leads": 7, "cpl": 5.21 },
+      { "grupo": "35-44", "spend": 192.85, "leads": 36, "cpl": 5.36 },
+      { "grupo": "45-54", "spend": 620.86, "leads": 176, "cpl": 3.53 },
+      { "grupo": "55-64", "spend": 153.68, "leads": 22, "cpl": 6.99 },
+      { "grupo": "65+", "spend": 64.43, "leads": 7, "cpl": 9.20 }
+    ]
+  },
+  "leitura": {
+    "pt": "A campanha está há <strong>2 dias no ar</strong> e acumula <strong>288 leads</strong>. O CPL está em <strong>€ 3,76</strong> no geral, € 3,54 no Frio e € 4,02 no Quente. O funil mostra 101.744 impressões com CTR de 1,75% e taxa de conversão Lead/PV de 22,14%. O <strong>Instagram</strong> lidera com 167 leads vs 114 do Facebook. A faixa <strong>45–54 anos</strong> concentra 61% dos leads com o melhor CPL (€ 3,53). O criativo <strong>ADXX-MISTO</strong> domina com 108 leads.",
+    "es": "La campaña lleva <strong>2 días activa</strong> y acumula <strong>288 leads</strong>. El CPL está en <strong>€ 3,76</strong> en general, € 3,54 en Frío y € 4,02 en Caliente. El embudo muestra 101.744 impresiones con CTR de 1,75% y tasa de conversión Lead/PV de 22,14%. El <strong>Instagram</strong> lidera con 167 leads vs 114 de Facebook. La franja <strong>45–54 años</strong> concentra el 61% de los leads con el mejor CPL (€ 3,53). El creativo <strong>ADXX-MISTO</strong> domina con 108 leads."
+  }
+}
