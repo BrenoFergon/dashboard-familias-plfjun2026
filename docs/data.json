@@ -3,35 +3,35 @@
     "evento": "La cara oculta de la adolescencia",
     "cliente": "Familias Estelares",
     "datas_evento": "8, 10, 12 y 15 jun 2026",
-    "periodo": "22/05/2026 a 23/05/2026",
-    "dias_ativos": 2,
-    "atualizado_em": "23/05/2026 20:27"
+    "periodo": "22/05/2026 a 24/05/2026",
+    "dias_ativos": 3,
+    "atualizado_em": "24/05/2026 12:12"
   },
   "kpis": {
-    "investimento_total": 1080.1,
-    "cpl_total": 3.78,
-    "leads_total": 293
+    "investimento_total": 1496.37,
+    "cpl_total": 3.72,
+    "leads_total": 413
   },
   "audiencias": {
     "hot": {
-      "leads": 133,
-      "spend": 538.77,
-      "cpl": 4.05
+      "leads": 191,
+      "spend": 748.18,
+      "cpl": 3.92
     },
     "cold": {
-      "leads": 153,
-      "spend": 541.33,
-      "cpl": 3.54
+      "leads": 211,
+      "spend": 748.19,
+      "cpl": 3.55
     }
   },
   "funil": {
-    "impressoes": 103231,
-    "cliques": 1801,
-    "page_views": 1315,
-    "leads": 293,
-    "ctr": 1.74,
-    "connect_rate": 73.01,
-    "taxa_conversao": 22.28
+    "impressoes": 146200,
+    "cliques": 2568,
+    "page_views": 1883,
+    "leads": 413,
+    "ctr": 1.76,
+    "connect_rate": 73.33,
+    "taxa_conversao": 21.93
   },
   "leads_por_dia": [
     {
@@ -48,7 +48,11 @@
     },
     {
       "data": "23/05",
-      "leads": 133
+      "leads": 149
+    },
+    {
+      "data": "24/05",
+      "leads": 104
     }
   ],
   "cpl_por_dia": [
@@ -58,100 +62,109 @@
     },
     {
       "data": "23/05",
-      "cpl": 3.86
+      "cpl": 4.01
+    },
+    {
+      "data": "24/05",
+      "cpl": 3.64
     }
   ],
   "canais": [
     {
       "canal": "Instagram",
-      "leads": 170,
-      "pct": 58.0
+      "leads": 236,
+      "pct": 57.1
     },
     {
       "canal": "Facebook",
-      "leads": 116,
-      "pct": 39.6
+      "leads": 167,
+      "pct": 40.4
     },
     {
       "canal": "an",
       "leads": 2,
-      "pct": 0.7
+      "pct": 0.5
     },
     {
       "canal": "grupos_antiguos",
       "leads": 1,
-      "pct": 0.3
+      "pct": 0.2
     },
     {
       "canal": "testesource",
       "leads": 1,
-      "pct": 0.3
+      "pct": 0.2
+    },
+    {
+      "canal": "sin_utm",
+      "leads": 1,
+      "pct": 0.2
     },
     {
       "canal": "Sem rastreio",
-      "leads": 3,
-      "pct": 1.0
+      "leads": 5,
+      "pct": 1.2
     }
   ],
   "criativos": [
     {
       "nome": "ADXX-MISTO",
-      "leads": 233,
-      "spend": 933.41,
-      "cpl": 4.01
-    },
-    {
-      "nome": "AD03-BLOQUE-06",
-      "leads": 7,
-      "spend": 34.31,
-      "cpl": 4.9
+      "leads": 338,
+      "spend": 1322.59,
+      "cpl": 3.91
     },
     {
       "nome": "AD02-BLOQUE-04",
-      "leads": 6,
-      "spend": 63.23,
-      "cpl": 10.54
+      "leads": 8,
+      "spend": 74.62,
+      "cpl": 9.33
+    },
+    {
+      "nome": "AD03-BLOQUE-06",
+      "leads": 8,
+      "spend": 45.86,
+      "cpl": 5.73
     },
     {
       "nome": "AD05-BLOQUE-08",
       "leads": 1,
-      "spend": 7.57,
-      "cpl": 7.57
+      "spend": 8.75,
+      "cpl": 8.75
     },
     {
       "nome": "AD06-BLOQUE-10",
       "leads": 1,
-      "spend": 5.32,
-      "cpl": 5.32
+      "spend": 5.46,
+      "cpl": 5.46
     },
     {
       "nome": "AD08-BLOQUE-13",
       "leads": 1,
-      "spend": 14.02,
-      "cpl": 14.02
+      "spend": 14.76,
+      "cpl": 14.76
     },
     {
       "nome": "AD01-BLOQUE-01",
       "leads": 0,
-      "spend": 4.96,
+      "spend": 5.47,
       "cpl": 0
     },
     {
       "nome": "AD04-BLOQUE-07",
       "leads": 0,
-      "spend": 1.82,
+      "spend": 1.87,
       "cpl": 0
     },
     {
       "nome": "AD09-BLOQUE-14",
       "leads": 0,
-      "spend": 8.59,
+      "spend": 9.76,
       "cpl": 0
     },
     {
       "nome": "AD07-BLOQUE-12",
       "leads": 0,
-      "spend": 6.87,
+      "spend": 7.23,
       "cpl": 0
     }
   ],
@@ -159,58 +172,58 @@
     "genero": [
       {
         "grupo": "Female",
-        "spend": 995.57,
-        "leads": 230,
-        "cpl": 4.33
+        "spend": 1377.71,
+        "leads": 328,
+        "cpl": 4.2
       },
       {
         "grupo": "Male",
-        "spend": 72.66,
-        "leads": 17,
-        "cpl": 4.27
+        "spend": 100.71,
+        "leads": 27,
+        "cpl": 3.73
       },
       {
         "grupo": "Unknown",
-        "spend": 11.87,
+        "spend": 17.95,
         "leads": 2,
-        "cpl": 5.93
+        "cpl": 8.97
       }
     ],
     "faixa_etaria": [
       {
         "grupo": "25-34",
-        "spend": 36.88,
-        "leads": 7,
-        "cpl": 5.27
+        "spend": 52.22,
+        "leads": 14,
+        "cpl": 3.73
       },
       {
         "grupo": "35-44",
-        "spend": 194.94,
-        "leads": 36,
-        "cpl": 5.41
+        "spend": 272.07,
+        "leads": 51,
+        "cpl": 5.33
       },
       {
         "grupo": "45-54",
-        "spend": 627.52,
-        "leads": 177,
-        "cpl": 3.55
+        "spend": 868.21,
+        "leads": 247,
+        "cpl": 3.52
       },
       {
         "grupo": "55-64",
-        "spend": 155.65,
-        "leads": 22,
-        "cpl": 7.08
+        "spend": 213.2,
+        "leads": 33,
+        "cpl": 6.46
       },
       {
         "grupo": "65+",
-        "spend": 65.11,
-        "leads": 7,
-        "cpl": 9.3
+        "spend": 90.66,
+        "leads": 12,
+        "cpl": 7.56
       }
     ]
   },
   "leitura": {
-    "pt": "A captação está há 2 dias ativa e já tem 293 leads, com CPL geral de € 3,78. O FRIO está performando melhor do que o QUENTE (€ 3,54 vs € 4,05), e o orçamento está praticamente dividido em partes iguais entre os dois públicos. O Instagram está gerando mais volume do que o Facebook (170 vs 116 leads). O público feminino de 45 a 54 anos é o que melhor responde, fechando com o melhor CPL (€ 3,55). O CPL melhorou entre o primeiro e o segundo dia: de € 4,75 no dia 22/05 para € 3,86 no dia 23/05, o que mostra que as campanhas estão encontrando o ritmo.",
-    "es": "La captación lleva 2 días activa y ya tiene 293 leads, con un CPL general de € 3,78. El COLD está respondiendo mejor que el HOT (€ 3,54 vs € 4,05), y el presupuesto está prácticamente repartido en partes iguales entre ambos públicos. Instagram está generando más volumen que Facebook (170 vs 116 leads). El público femenino de 45 a 54 años es el que mejor responde, cerrando con el mejor CPL del LATAM (€ 3,55). El CPL mejoró entre el primer y el segundo día: de € 4,75 el 22/05 a € 3,86 el 23/05, lo que muestra que las campañas están encontrando su ritmo."
+    "pt": "Estamos com 3 dias ativos e o CPL geral está em € 3,72, com o FRIO em € 3,55 e o QUENTE em € 3,92. O Instagram está trazendo mais leads que o Facebook, com 236 vs 167. O criativo ADXX-MISTO é o que mais está convertendo e carrega a maior parte do orçamento. O CPL vem caindo bem: começamos em € 4,75 no dia 22 e já fechamos o dia 24/05 em € 3,64. As mulheres de 45-54 anos são o segmento mais eficiente com CPL de € 3,52.",
+    "es": "Llevamos 3 días activos y el CPL general está en € 3,72, con el COLD en € 3,55 y el HOT en € 3,92. Instagram está jalando más leads que Facebook, con 236 vs 167. El creativo ADXX-MISTO es el que más está convirtiendo y lleva la mayor parte del presupuesto. El CPL viene bajando bien: arrancamos en € 4,75 el día 22 y ya cerramos el 24/05 en € 3,64. Las mujeres de 45-54 años son el segmento más eficiente con CPL de € 3,52."
   }
 }
