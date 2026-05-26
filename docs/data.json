@@ -3,35 +3,35 @@
     "evento": "La cara oculta de la adolescencia",
     "cliente": "Familias Estelares",
     "datas_evento": "8, 10, 12 y 15 jun 2026",
-    "periodo": "22/05/2026 a 25/05/2026",
-    "dias_ativos": 4,
-    "atualizado_em": "25/05/2026 22:06"
+    "periodo": "22/05/2026 a 26/05/2026",
+    "dias_ativos": 5,
+    "atualizado_em": "26/05/2026 12:11"
   },
   "kpis": {
-    "investimento_total": 2611.08,
-    "cpl_total": 4.2,
-    "leads_total": 621
+    "investimento_total": 3403.11,
+    "cpl_total": 4.53,
+    "leads_total": 770
   },
   "audiencias": {
     "hot": {
-      "leads": 324,
-      "spend": 1432.1,
-      "cpl": 4.42
+      "leads": 410,
+      "spend": 1862.75,
+      "cpl": 4.54
     },
     "cold": {
-      "leads": 283,
-      "spend": 1178.98,
-      "cpl": 4.17
+      "leads": 342,
+      "spend": 1540.36,
+      "cpl": 4.5
     }
   },
   "funil": {
-    "impressoes": 259941,
-    "cliques": 4437,
-    "page_views": 3200,
-    "leads": 621,
-    "ctr": 1.71,
-    "connect_rate": 72.12,
-    "taxa_conversao": 19.41
+    "impressoes": 321978,
+    "cliques": 5585,
+    "page_views": 4025,
+    "leads": 752,
+    "ctr": 1.73,
+    "connect_rate": 72.07,
+    "taxa_conversao": 18.68
   },
   "leads_por_dia": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "data": "26/05",
-      "leads": 1
+      "leads": 150
     }
   ],
   "cpl_por_dia": [
@@ -78,159 +78,153 @@
     },
     {
       "data": "25/05",
-      "cpl": 6.64
+      "cpl": 6.61
+    },
+    {
+      "data": "26/05",
+      "cpl": 5.6
     }
   ],
   "canais": [
     {
-      "canal": "Instagram",
-      "leads": 385,
-      "pct": 62.0
+      "canal": "Facebook",
+      "leads": 277,
+      "pct": 36.0
     },
     {
-      "canal": "Facebook",
-      "leads": 223,
-      "pct": 35.9
+      "canal": "Instagram",
+      "leads": 478,
+      "pct": 62.1
     },
     {
       "canal": "Audience Network",
-      "leads": 3,
+      "leads": 4,
       "pct": 0.5
     },
     {
-      "canal": "grupos_antiguos",
+      "canal": "Grupos Antiguos",
       "leads": 1,
-      "pct": 0.2
+      "pct": 0.1
     },
     {
-      "canal": "testesource",
-      "leads": 1,
-      "pct": 0.2
-    },
-    {
-      "canal": "sin_utm",
-      "leads": 1,
-      "pct": 0.2
-    },
-    {
-      "canal": "Sem rastreio",
-      "leads": 7,
-      "pct": 1.1
+      "canal": "Sin Trackeo",
+      "leads": 9,
+      "pct": 1.2
     }
   ],
   "criativos": [
     {
       "nome": "ADXX-MISTO",
-      "leads": 430,
-      "spend": 1847.14,
-      "cpl": 4.3
-    },
-    {
-      "nome": "AD02-BLOQUE-04",
-      "leads": 24,
-      "spend": 169.88,
-      "cpl": 7.08
-    },
-    {
-      "nome": "AD03-BLOQUE-06",
-      "leads": 23,
-      "spend": 118.66,
-      "cpl": 5.16
+      "leads": 493,
+      "spend": 2112.42,
+      "cpl": 4.28
     },
     {
       "nome": "PLF_04",
-      "leads": 22,
-      "spend": 144.71,
-      "cpl": 6.58
+      "leads": 45,
+      "spend": 321.34,
+      "cpl": 7.14
     },
     {
-      "nome": "AD05-BLOQUE-08",
-      "leads": 9,
-      "spend": 137.85,
-      "cpl": 15.32
+      "nome": "AD03-BLOQUE-06",
+      "leads": 34,
+      "spend": 157.53,
+      "cpl": 4.63
+    },
+    {
+      "nome": "AD02-BLOQUE-04",
+      "leads": 30,
+      "spend": 226.96,
+      "cpl": 7.57
     },
     {
       "nome": "AD06-BLOQUE-10",
-      "leads": 8,
-      "spend": 92.14,
-      "cpl": 11.52
+      "leads": 20,
+      "spend": 178.94,
+      "cpl": 8.95
+    },
+    {
+      "nome": "AD05-BLOQUE-08",
+      "leads": 16,
+      "spend": 194.56,
+      "cpl": 12.16
+    },
+    {
+      "nome": "PLF_01",
+      "leads": 9,
+      "spend": 33.47,
+      "cpl": 3.72
+    },
+    {
+      "nome": "PLF_06",
+      "leads": 5,
+      "spend": 21.87,
+      "cpl": 4.37
+    },
+    {
+      "nome": "PLF_07",
+      "leads": 4,
+      "spend": 31.71,
+      "cpl": 7.93
     },
     {
       "nome": "PLF_09",
       "leads": 3,
-      "spend": 15.42,
-      "cpl": 5.14
-    },
-    {
-      "nome": "PLF_07",
-      "leads": 2,
-      "spend": 15.8,
-      "cpl": 7.9
-    },
-    {
-      "nome": "PLF_06",
-      "leads": 2,
-      "spend": 6.89,
-      "cpl": 3.45
-    },
-    {
-      "nome": "AD08-BLOQUE-13",
-      "leads": 1,
-      "spend": 16.21,
-      "cpl": 16.21
+      "spend": 16.58,
+      "cpl": 5.53
     }
   ],
   "segmentacao": {
     "genero": [
       {
         "grupo": "Female",
-        "spend": 2407.72,
-        "leads": 485,
-        "cpl": 4.96
+        "spend": 3138.16,
+        "leads": 614,
+        "cpl": 5.11
       },
       {
         "grupo": "Male",
-        "spend": 172.59,
-        "leads": 38,
-        "cpl": 4.54
+        "spend": 226.15,
+        "leads": 46,
+        "cpl": 4.92
       },
       {
         "grupo": "Unknown",
-        "spend": 30.77,
-        "leads": 2,
-        "cpl": 15.39
+        "spend": 38.8,
+        "leads": 5,
+        "cpl": 7.76
       }
     ],
     "faixa_etaria": [
       {
         "grupo": "25-34",
-        "spend": 91.79,
-        "leads": 24,
-        "cpl": 3.82
+        "spend": 120.15,
+        "leads": 32,
+        "cpl": 3.75
       },
       {
         "grupo": "35-44",
-        "spend": 484.16,
-        "leads": 93,
-        "cpl": 5.21
+        "spend": 646.38,
+        "leads": 120,
+        "cpl": 5.39
       },
       {
         "grupo": "45-54",
-        "spend": 1522.84,
-        "leads": 345,
-        "cpl": 4.41
+        "spend": 1983.68,
+        "leads": 434,
+        "cpl": 4.57
       },
       {
         "grupo": "55-64",
-        "spend": 354.51,
-        "leads": 46,
-        "cpl": 7.71
+        "spend": 454.52,
+        "leads": 58,
+        "cpl": 7.84
       },
       {
         "grupo": "65+",
-        "spend": 157.77,
-        "leads": 17,
-        "cpl": 9.28
+        "spend": 198.37,
+        "leads": 21,
+        "cpl": 9.45
       }
     ]
   },
@@ -409,7 +403,7 @@
     ]
   },
   "leitura": {
-    "pt": "Estamos com 4 dias ativos e 621 leads a um CPL geral de 4,30€. O Instagram está puxando 62% do volume (385 leads) contra 36% do Facebook (223 leads). O público QUENTE está com CPL de 4,42€ e o FRIO com 4,17€, ambos bem posicionados para uma captação LATAM. O criativo ADXX-MISTO está dominando com 430 leads (70% do total), e AD02-BLOQUE-04 e AD03-BLOQUE-06 trazem resultados complementares mas com CPL mais alto. Do cruzamento com a pesquisa (amostra pequena de 31 leads), 35% são perfis ideais e 32% são descarte, algo a monitorar conforme a captação avança.",
-    "es": "Llevamos 4 días activos con 621 leads a un CPL general de 4,30€. Instagram está jalando el 62% del volumen (385 leads) frente al 36% de Facebook (223 leads). El público HOT tiene CPL de 4,42€ y el COLD de 4,17€, los dos bien posicionados para una captación LATAM. El creativo ADXX-MISTO está dominando con 430 leads (70% del total), y AD02-BLOQUE-04 y AD03-BLOQUE-06 aportan resultados complementarios aunque con CPL más elevado. Del cruce con la encuesta (muestra pequeña de 31 leads), el 35% son perfiles ideales y el 32% son descarte, algo a monitorear conforme avance la captación."
+    "pt": "As campanhas estão com 5 dias ativos e CPL geral de 4,53 €, dentro do esperado. O público Quente (4,54 €) e o Frio (4,50 €) estão praticamente iguais em CPL, o que mostra boa calibração dos dois públicos. O Instagram está puxando mais leads do que o Facebook (478 vs 277) e é o canal principal por enquanto. O criativo ADXX-MISTO está com o melhor CPL do período (4,28 €) e é onde a maior parte dos resultados está vindo. O dia 25/05 teve o CPL mais alto (6,61 €) e vale acompanhar se isso se normaliza nos próximos dias.",
+    "es": "Las campañas llevan 5 días activos con un CPL general de 4,53 €, dentro del rango esperado. El público HOT (4,54 €) y el COLD (4,50 €) están casi iguales en CPL, lo que muestra que las dos segmentaciones están funcionando bien. Instagram está jalando más leads que Facebook (478 vs 277) y es el canal dominante por ahora. El creativo ADXX-MISTO tiene el mejor CPL del período (4,28 €) y es donde está llegando la mayor parte de los resultados. El 25/05 fue el día con el CPL más alto (6,61 €), vale la pena seguirlo de cerca."
   }
 }
