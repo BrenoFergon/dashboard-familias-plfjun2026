@@ -3,35 +3,35 @@
     "evento": "La cara oculta de la adolescencia",
     "cliente": "Familias Estelares",
     "datas_evento": "8, 10, 12 y 15 jun 2026",
-    "periodo": "22/05/2026 a 26/05/2026",
-    "dias_ativos": 5,
-    "atualizado_em": "26/05/2026 12:18"
+    "periodo": "22/05/2026 a 27/05/2026",
+    "dias_ativos": 6,
+    "atualizado_em": "27/05/2026 12:14"
   },
   "kpis": {
-    "investimento_total": 3403.11,
-    "cpl_total": 4.52,
-    "leads_total": 771
+    "investimento_total": 4242.5,
+    "cpl_total": 4.37,
+    "leads_total": 1012
   },
   "audiencias": {
     "hot": {
-      "leads": 411,
-      "spend": 1862.75,
-      "cpl": 4.53
+      "leads": 548,
+      "spend": 2320.11,
+      "cpl": 4.23
     },
     "cold": {
-      "leads": 342,
-      "spend": 1540.36,
-      "cpl": 4.5
+      "leads": 422,
+      "spend": 1922.39,
+      "cpl": 4.56
     }
   },
   "funil": {
-    "impressoes": 321978,
-    "cliques": 5585,
-    "page_views": 4025,
-    "leads": 771,
+    "impressoes": 395475,
+    "cliques": 6828,
+    "page_views": 4886,
+    "leads": 1012,
     "ctr": 1.73,
-    "connect_rate": 72.07,
-    "taxa_conversao": 19.16
+    "connect_rate": 71.56,
+    "taxa_conversao": 20.71
   },
   "leads_por_dia": [
     {
@@ -60,7 +60,11 @@
     },
     {
       "data": "26/05",
-      "leads": 151
+      "leads": 262
+    },
+    {
+      "data": "27/05",
+      "leads": 130
     }
   ],
   "cpl_por_dia": [
@@ -78,153 +82,157 @@
     },
     {
       "data": "25/05",
-      "cpl": 6.61
+      "cpl": 6.62
     },
     {
       "data": "26/05",
-      "cpl": 5.6
+      "cpl": 5.87
+    },
+    {
+      "data": "27/05",
+      "cpl": 7.1
     }
   ],
   "canais": [
     {
       "canal": "Instagram",
-      "leads": 478,
-      "pct": 62.0
+      "leads": 615,
+      "pct": 60.8
     },
     {
       "canal": "Facebook",
-      "leads": 278,
-      "pct": 36.1
+      "leads": 358,
+      "pct": 35.4
     },
     {
-      "canal": "an",
-      "leads": 4,
-      "pct": 0.5
+      "canal": "Grupos Antiguos",
+      "leads": 18,
+      "pct": 1.8
     },
     {
-      "canal": "grupos_antiguos",
-      "leads": 1,
-      "pct": 0.1
+      "canal": "Audience Network",
+      "leads": 6,
+      "pct": 0.6
     },
     {
       "canal": "Sem rastreio",
-      "leads": 10,
-      "pct": 1.3
+      "leads": 15,
+      "pct": 1.5
     }
   ],
   "criativos": [
     {
       "nome": "ADXX-MISTO",
-      "leads": 493,
-      "spend": 2112.42,
-      "cpl": 4.28
+      "leads": 550,
+      "spend": 2388.9,
+      "cpl": 4.34
     },
     {
       "nome": "PLF_04",
-      "leads": 45,
-      "spend": 321.34,
-      "cpl": 7.14
+      "leads": 74,
+      "spend": 505.25,
+      "cpl": 6.83
     },
     {
       "nome": "AD03-BLOQUE-06",
-      "leads": 34,
-      "spend": 157.53,
-      "cpl": 4.63
+      "leads": 44,
+      "spend": 205.48,
+      "cpl": 4.67
     },
     {
       "nome": "AD02-BLOQUE-04",
-      "leads": 30,
-      "spend": 226.96,
-      "cpl": 7.57
+      "leads": 33,
+      "spend": 262.09,
+      "cpl": 7.94
     },
     {
       "nome": "AD06-BLOQUE-10",
-      "leads": 20,
-      "spend": 178.94,
-      "cpl": 8.95
-    },
-    {
-      "nome": "AD05-BLOQUE-08",
-      "leads": 16,
-      "spend": 194.56,
-      "cpl": 12.16
+      "leads": 26,
+      "spend": 293.4,
+      "cpl": 11.28
     },
     {
       "nome": "PLF_01",
-      "leads": 9,
-      "spend": 33.47,
-      "cpl": 3.72
+      "leads": 25,
+      "spend": 117.71,
+      "cpl": 4.71
     },
     {
-      "nome": "PLF_06",
-      "leads": 5,
-      "spend": 21.87,
-      "cpl": 4.37
+      "nome": "AD05-BLOQUE-08",
+      "leads": 17,
+      "spend": 228.47,
+      "cpl": 13.44
+    },
+    {
+      "nome": "PLF_10",
+      "leads": 7,
+      "spend": 72.18,
+      "cpl": 10.31
     },
     {
       "nome": "PLF_07",
-      "leads": 4,
-      "spend": 31.71,
-      "cpl": 7.93
+      "leads": 6,
+      "spend": 41.18,
+      "cpl": 6.86
     },
     {
-      "nome": "PLF_09",
-      "leads": 3,
-      "spend": 16.58,
-      "cpl": 5.53
+      "nome": "PLF_06",
+      "leads": 6,
+      "spend": 33.49,
+      "cpl": 5.58
     }
   ],
   "segmentacao": {
     "genero": [
       {
         "grupo": "Female",
-        "spend": 3138.16,
-        "leads": 614,
-        "cpl": 5.11
+        "spend": 3915.48,
+        "leads": 740,
+        "cpl": 5.29
       },
       {
         "grupo": "Male",
-        "spend": 226.15,
-        "leads": 46,
-        "cpl": 4.92
+        "spend": 279.22,
+        "leads": 50,
+        "cpl": 5.58
       },
       {
         "grupo": "Unknown",
-        "spend": 38.8,
+        "spend": 47.8,
         "leads": 5,
-        "cpl": 7.76
+        "cpl": 9.56
       }
     ],
     "faixa_etaria": [
       {
         "grupo": "25-34",
-        "spend": 120.15,
-        "leads": 32,
-        "cpl": 3.75
+        "spend": 151.74,
+        "leads": 41,
+        "cpl": 3.7
       },
       {
         "grupo": "35-44",
-        "spend": 646.38,
-        "leads": 120,
-        "cpl": 5.39
+        "spend": 823.48,
+        "leads": 148,
+        "cpl": 5.56
       },
       {
         "grupo": "45-54",
-        "spend": 1983.68,
-        "leads": 434,
-        "cpl": 4.57
+        "spend": 2491.98,
+        "leads": 501,
+        "cpl": 4.97
       },
       {
         "grupo": "55-64",
-        "spend": 454.52,
-        "leads": 58,
-        "cpl": 7.84
+        "spend": 544.98,
+        "leads": 82,
+        "cpl": 6.65
       },
       {
         "grupo": "65+",
-        "spend": 198.37,
-        "leads": 21,
-        "cpl": 9.45
+        "spend": 230.29,
+        "leads": 23,
+        "cpl": 10.01
       }
     ]
   },
@@ -232,7 +240,7 @@
     "totais": {
       "Ideal": 11,
       "Bom": 10,
-      "Descarte": 10
+      "Descarte": 11
     },
     "grupos": [
       {
@@ -320,8 +328,8 @@
         "canal": "ig",
         "ideal": 0,
         "bom": 2,
-        "descarte": 0,
-        "total": 2
+        "descarte": 1,
+        "total": 3
       },
       {
         "tipo": "COLD",
@@ -403,7 +411,7 @@
     ]
   },
   "leitura": {
-    "pt": "A captação está ativa há 5 dias e já soma 771 leads com CPL geral de €4,52. O público QUENTE está rodando bem com 411 leads a €4,53, praticamente igual ao FRIO (342 leads a €4,50). O Instagram está puxando mais leads com 478, seguido do Facebook com 278. O criativo ADXX-MISTO é o que está performando melhor, com 493 leads e CPL de €4,28. Ontem o CPL subiu para €6,61 e hoje por enquanto está em €5,60 com 129 leads, então parece que está se recuperando.",
-    "es": "La captación lleva 5 días activa y ya suma 771 leads con un CPL general de €4,52. El público HOT está corriendo bien, con 411 leads a €4,53, prácticamente igual que el COLD (342 leads a €4,50). Instagram está jalando más leads con 478, seguido de Facebook con 278. El criativo ADXX-MISTO es el que mejor está funcionando, con 493 leads y CPL de €4,28. Ayer el CPL subió a €6,61 y hoy de momento está en €5,60 con 129 leads, así que parece que se va recuperando."
+    "pt": "A captação está com 6 dias rodando e acumula 1.012 leads com CPL global de €4,37. O público quente está performando melhor que o frio (€4,23 vs €4,56) e representa 54% dos leads pagos. O Instagram está puxando mais leads que o Facebook (615 vs 358). O criativo ADXX-MISTO acumula a maioria dos leads (550) com CPL de €4,34, e hoje o PLF_07 aparece com o melhor CPL do dia (€3,12). Aparecem também 18 leads de grupos_antiguos, um canal novo que vale acompanhar de perto.",
+    "es": "La captación lleva 6 días activa y acumula 1.012 leads con un CPL global de €4,37. El HOT está rindiendo mejor que el COLD (€4,23 vs €4,56) y representa el 54% de los leads pagados. Instagram está trayendo más leads que Facebook (615 vs 358). El criativo ADXX-MISTO acumula la mayoría de los leads (550) con un CPL de €4,34, y hoy PLF_07 aparece con el mejor CPL del día (€3,12). También hay 18 leads desde grupos_antiguos, un canal nuevo que vale seguir de cerca."
   }
 }
