@@ -3,35 +3,36 @@
     "evento": "La cara oculta de la adolescencia",
     "cliente": "Familias Estelares",
     "datas_evento": "8, 10, 12 y 15 jun 2026",
-    "periodo": "22/05/2026 a 06/06/2026",
-    "dias_ativos": 16,
-    "atualizado_em": "06/06/2026 12:07"
+    "periodo": "22/05/2026 a 07/06/2026",
+    "dias_ativos": 17,
+    "atualizado_em": "07/06/2026 12:07"
   },
   "kpis": {
-    "investimento_total": 13937.97,
-    "cpl_total": 5.85,
-    "leads_total": 3038
+    "investimento_total": 14470.21,
+    "cpl_total": 5.96,
+    "leads_total": 3132,
+    "leads_pagos": 2427
   },
   "audiencias": {
     "hot": {
-      "leads": 1375,
-      "spend": 7761.44,
-      "cpl": 5.64
+      "leads": 1408,
+      "spend": 8213.63,
+      "cpl": 5.83
     },
     "cold": {
-      "leads": 1006,
-      "spend": 6176.53,
+      "leads": 1019,
+      "spend": 6256.58,
       "cpl": 6.14
     }
   },
   "funil": {
-    "impressoes": 1164051,
-    "cliques": 18279,
-    "page_views": 13161,
-    "leads": 3038,
-    "ctr": 1.57,
-    "connect_rate": 72.0,
-    "taxa_conversao": 23.08
+    "impressoes": 1193773,
+    "cliques": 18634,
+    "page_views": 13394,
+    "leads": 2427,
+    "ctr": 1.56,
+    "connect_rate": 71.88,
+    "taxa_conversao": 18.12
   },
   "leads_por_dia": [
     {
@@ -56,14 +57,14 @@
     },
     {
       "data": "06/06",
-      "leads": 11
+      "leads": 46
+    },
+    {
+      "data": "07/06",
+      "leads": 60
     },
     {
       "data": "19/05",
-      "leads": 1
-    },
-    {
-      "data": "20/05",
       "leads": 1
     },
     {
@@ -133,6 +134,10 @@
       "cpl": 0.0
     },
     {
+      "data": "07/06",
+      "cpl": 15.65
+    },
+    {
       "data": "22/05",
       "cpl": 4.75
     },
@@ -176,18 +181,28 @@
   "canais": [
     {
       "canal": "Instagram",
-      "leads": 1412,
-      "pct": 46.5
+      "leads": 1453,
+      "pct": 46.4
     },
     {
       "canal": "Facebook",
-      "leads": 998,
-      "pct": 32.9
+      "leads": 1010,
+      "pct": 32.2
     },
     {
-      "canal": "Grupos Antiguos",
-      "leads": 450,
-      "pct": 14.8
+      "canal": "Grupos Antiguos (WhatsApp)",
+      "leads": 475,
+      "pct": 15.2
+    },
+    {
+      "canal": "Newsletter (orgánico)",
+      "leads": 107,
+      "pct": 3.4
+    },
+    {
+      "canal": "Orgánico",
+      "leads": 32,
+      "pct": 1.0
     },
     {
       "canal": "Audience Network",
@@ -195,17 +210,7 @@
       "pct": 0.4
     },
     {
-      "canal": "Orgánico web",
-      "leads": 26,
-      "pct": 0.9
-    },
-    {
-      "canal": "Newsletter (orgánico)",
-      "leads": 97,
-      "pct": 3.2
-    },
-    {
-      "canal": "Sin Trackeo",
+      "canal": "Sin Rastreo",
       "leads": 44,
       "pct": 1.4
     }
@@ -224,40 +229,40 @@
       "cpl": 6.57
     },
     {
+      "nome": "AD06-BLOQUE-10",
+      "leads": 216,
+      "spend": 2018.05,
+      "cpl": 9.34
+    },
+    {
       "nome": "PLF_01",
       "leads": 213,
       "spend": 1182.71,
       "cpl": 5.55
     },
     {
-      "nome": "AD06-BLOQUE-10",
-      "leads": 212,
-      "spend": 1980.85,
-      "cpl": 9.34
-    },
-    {
       "nome": "AD03-BLOQUE-06",
-      "leads": 195,
-      "spend": 1022.35,
-      "cpl": 5.24
+      "leads": 200,
+      "spend": 1145.8,
+      "cpl": 5.73
     },
     {
       "nome": "PLF_07",
-      "leads": 155,
-      "spend": 878.57,
-      "cpl": 5.67
+      "leads": 166,
+      "spend": 934.08,
+      "cpl": 5.63
     },
     {
       "nome": "AD02-BLOQUE-04",
-      "leads": 90,
-      "spend": 614.57,
-      "cpl": 6.83
+      "leads": 97,
+      "spend": 657.06,
+      "cpl": 6.77
     },
     {
       "nome": "AD05-BLOQUE-08",
-      "leads": 30,
-      "spend": 338.97,
-      "cpl": 11.3
+      "leads": 33,
+      "spend": 458.59,
+      "cpl": 13.9
     },
     {
       "nome": "PLF_03",
@@ -276,21 +281,21 @@
     "genero": [
       {
         "grupo": "Female",
-        "spend": 12903.99,
-        "leads": 2111,
-        "cpl": 6.11
+        "spend": 13395.31,
+        "leads": 2144,
+        "cpl": 6.25
       },
       {
         "grupo": "Male",
-        "spend": 882.93,
-        "leads": 123,
-        "cpl": 7.18
+        "spend": 915.07,
+        "leads": 124,
+        "cpl": 7.38
       },
       {
         "grupo": "Unknown",
-        "spend": 151.05,
-        "leads": 19,
-        "cpl": 7.95
+        "spend": 159.83,
+        "leads": 20,
+        "cpl": 7.99
       }
     ],
     "faixa_etaria": [
@@ -302,21 +307,21 @@
       },
       {
         "grupo": "35-44",
-        "spend": 3000.84,
-        "leads": 460,
-        "cpl": 6.52
+        "spend": 3107.45,
+        "leads": 467,
+        "cpl": 6.65
       },
       {
         "grupo": "45-54",
-        "spend": 8433.7,
-        "leads": 1397,
-        "cpl": 6.04
+        "spend": 8835.39,
+        "leads": 1422,
+        "cpl": 6.21
       },
       {
         "grupo": "55-64",
-        "spend": 1512.64,
-        "leads": 238,
-        "cpl": 6.36
+        "spend": 1536.57,
+        "leads": 241,
+        "cpl": 6.38
       },
       {
         "grupo": "65+",
@@ -330,7 +335,7 @@
     "totais": {
       "Ideal": 47,
       "Bom": 110,
-      "Descarte": 66
+      "Descarte": 73
     },
     "grupos": [
       {
@@ -341,8 +346,8 @@
         "canal": "grupos_antiguos",
         "ideal": 9,
         "bom": 21,
-        "descarte": 10,
-        "total": 40
+        "descarte": 12,
+        "total": 42
       },
       {
         "tipo": "HOT",
@@ -373,8 +378,8 @@
         "criativo": "ADXX-MISTO",
         "canal": "ig",
         "ideal": 4,
-        "bom": 7,
-        "descarte": 5,
+        "bom": 6,
+        "descarte": 6,
         "total": 16
       },
       {
@@ -395,9 +400,9 @@
         "criativo": "sin_utm",
         "canal": "sin_utm",
         "ideal": 2,
-        "bom": 1,
+        "bom": 2,
         "descarte": 0,
-        "total": 3
+        "total": 4
       },
       {
         "tipo": "HOT",
@@ -418,8 +423,8 @@
         "canal": "ig",
         "ideal": 2,
         "bom": 4,
-        "descarte": 1,
-        "total": 7
+        "descarte": 2,
+        "total": 8
       },
       {
         "tipo": "COLD",
@@ -428,8 +433,8 @@
         "criativo": "ADXX-MISTO",
         "canal": "ig",
         "ideal": 1,
-        "bom": 5,
-        "descarte": 2,
+        "bom": 4,
+        "descarte": 3,
         "total": 8
       },
       {
@@ -450,8 +455,8 @@
         "criativo": "ADXX-MISTO",
         "canal": "fb",
         "ideal": 1,
-        "bom": 7,
-        "descarte": 4,
+        "bom": 6,
+        "descarte": 5,
         "total": 12
       },
       {
@@ -521,17 +526,6 @@
         "total": 5
       },
       {
-        "tipo": "COLD",
-        "campanha": "FT-PLF-INVITACION-COLD-LAL-MVPs-VD-MUJER-IG-FB-FEED-STORIES-BLOCO01-P1-2026-05-21",
-        "conjunto": "00-LAL-Seguidores",
-        "criativo": "AD06-BLOQUE-10",
-        "canal": "fb",
-        "ideal": 1,
-        "bom": 0,
-        "descarte": 0,
-        "total": 1
-      },
-      {
         "tipo": "OUTRO",
         "campanha": "120242360623780582",
         "conjunto": "paid",
@@ -552,6 +546,17 @@
         "bom": 2,
         "descarte": 2,
         "total": 5
+      },
+      {
+        "tipo": "OUTRO",
+        "campanha": "sin_utm",
+        "conjunto": "instagram",
+        "criativo": "sin_utm",
+        "canal": "organico",
+        "ideal": 1,
+        "bom": 4,
+        "descarte": 3,
+        "total": 8
       },
       {
         "tipo": "HOT",
@@ -763,6 +768,17 @@
         "total": 1
       },
       {
+        "tipo": "COLD",
+        "campanha": "FT-PLF-INVITACION-COLD-LAL-MVPs-VD-MUJER-IG-FB-FEED-STORIES-BLOCO01-P1-2026-05-21",
+        "conjunto": "00-LAL-Seguidores",
+        "criativo": "AD06-BLOQUE-10",
+        "canal": "fb",
+        "ideal": 0,
+        "bom": 0,
+        "descarte": 1,
+        "total": 1
+      },
+      {
         "tipo": "HOT",
         "campanha": "FT-PLF-INVITACION-HOT-MIX-VD-ADS-TESTE-MUJER-IG-FB-FEED-STORIES-BLOCO01-P1-2026-05-25",
         "conjunto": "00-MIX-HOT",
@@ -797,17 +813,6 @@
       },
       {
         "tipo": "OUTRO",
-        "campanha": "sin_utm",
-        "conjunto": "instagram",
-        "criativo": "sin_utm",
-        "canal": "organico",
-        "ideal": 0,
-        "bom": 3,
-        "descarte": 3,
-        "total": 6
-      },
-      {
-        "tipo": "OUTRO",
         "campanha": "120242174476400582",
         "conjunto": "paid",
         "criativo": "120242174476390582",
@@ -827,11 +832,22 @@
         "bom": 1,
         "descarte": 0,
         "total": 1
+      },
+      {
+        "tipo": "COLD",
+        "campanha": "FT-PLF-INVITACION-COLD-INT-VD-MUJER-IG-FB-FEED-STORIES-BLOCO01-P1-2026-05-21",
+        "conjunto": "00-Interesses-Plantas",
+        "criativo": "AD06-BLOQUE-10",
+        "canal": "fb",
+        "ideal": 0,
+        "bom": 1,
+        "descarte": 0,
+        "total": 1
       }
     ]
   },
   "leitura": {
-    "pt": "A campanha está com 16 dias ativos e CPL geral de €5,85. O público QUENTE está indo melhor que o FRIO: €5,64 vs €6,14 por lead. O Instagram está puxando mais leads: 1.412 vs 998 do Facebook. O criativo ADXX-MISTO é o que mais performa, com 1.058 leads a €5,52 de CPL, seguido do AD03-BLOQUE-06 a €5,24. Estão chegando também 450 leads via grupos_antiguos e 97 orgânicos pela newsletter, levando o total a 3.038 registros.",
-    "es": "La campaña lleva 16 días activa con un CPL general de €5,85. El público HOT está rindiendo mejor que el COLD: €5,64 vs €6,14 por lead. Instagram es el canal con más leads, con 1.412 frente a los 998 de Facebook. El criativo ADXX-MISTO es el que más está jalando, con 1.058 leads a €5,52 de CPL, seguido de AD03-BLOQUE-06 a €5,24. Además, están llegando 450 leads desde grupos_antiguos y 97 orgánicos via newsletter, lo que empuja bien el total hacia 3.038 registros."
+    "pt": "A captação está ativa há 17 dias com um CPL geral de €5,96, dentro do esperado para este tipo de evento. O Instagram está puxando mais leads do que o Facebook (1.453 vs 1.010), e o público QUENTE fechou com €5,83 contra €6,14 do FRIO. O criativo ADXX-MISTO segue sendo o mais forte, com 1.058 leads e CPL de €5,52. Além dos 2.427 leads pagos, chegaram 475 contatos por grupos antigos de WhatsApp e 139 orgânicos, mostrando boa resposta da audiência LATAM fora dos anúncios. O CPL do dia 07/06 foi de €15,65, provavelmente porque o orçamento do dia ainda não terminou de distribuir.",
+    "es": "La captación lleva 17 días activa con un CPL global de €5,96, dentro del rango esperado para este tipo de evento. Instagram está traccionando mejor que Facebook (1.453 vs 1.010 leads), y el público HOT cerró con €5,83 frente al €6,14 del COLD. El criativo ADXX-MISTO sigue siendo el que más pesa, con 1.058 leads y un CPL de €5,52. Además de los 2.427 leads pagos, llegaron 475 contactos desde grupos de WhatsApp históricos y 139 orgánicos, lo que muestra buena respuesta de la audiencia LATAM fuera de los anuncios. El CPL del 07/06 fue de €15,65, posiblemente porque el presupuesto del día aún no terminó de distribuirse."
   }
 }
